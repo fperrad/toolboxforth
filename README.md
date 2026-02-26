@@ -15,7 +15,7 @@ is made for storing 32 bit numbers into the dictionary...
 The end result: This makes for a more compacted application that fits on smaller MCUs.
 
 ## Features
-
+* *NEW* RIOT (IoT OS) supported add by François Perrad.  Thanks François!
 * *NEW* RP2040 (Raspberry Pi Pico) support with just SDK (no Arduino).
 * *NEW* More bootstrapping goodness... reducing C code.
 
